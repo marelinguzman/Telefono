@@ -1,0 +1,123 @@
+.section1 {
+    height: 70rem;
+}
+.btn {
+    background-color: #F84646;
+    padding: 1.5rem 3rem;
+    font-size: 1.4rem;
+}
+.opcion{
+    font-size: 1.7rem;
+}
+.texto p {
+    margin: 1.5rem 0;
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+.texto {
+    height: 16.4rem;
+    width: 45rem;
+}
+.texto h1 {
+    font-size: 5rem;
+}
+.sectionAlineacion {
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.form {
+    width: 75%;
+    margin-top: 1rem;
+    background-color: #fff;
+    display: flex;
+    padding: 0.8rem 0.7rem 0.8rem 2rem;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+.form input{ 
+    color: gray;
+    outline: none;
+    border: transparent;
+    font-size: 1.2rem;
+    ::placeholder { color: #d9d9d9; }
+}
+.form button {
+    text-decoration: none;
+    background-color: #F84646;
+    padding: 1.5rem 2.7rem;    
+    border-radius: 8%;
+    font-size: 1.4rem;
+}
+.padre .hijos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 36rem;
+    height: auto;
+    margin-bottom: 2rem;
+}
+.padre {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.botonMenu {
+    display: none;
+}
+.sectionAlineacion {
+    margin: 13rem 0rem 0rem 13rem;
+}
+.lineaHorizontal {
+    width: 75%;
+}
+.section4 {
+    margin-top: 6rem;
+    width: 100%;
+    height: 83rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.div1Sect4 {
+    height: 50rem;
+}
+.div1-1, .div2-2 {
+    width: 36%;
+    height: 35rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.titulo1Sect4, .titulo2Sect4 {
+    font-size: 4.5em;
+}
+.descrpcion1Sect4, .descrpcion2Sect4 {
+    font-size: 1.6rem;
+}
+.div2-1 {
+    display: flex;
+    justify-content: center;
+    width: 47%;
+    height: 100%;
+    background-image: url("../img/img2section4.jpg");
+    background-size: cover;
+}
+.div2Sect4 {
+    height: 50rem;
+}
+.section5 {
+    height: 36rem;
+}
+.logostipos {
+    width: 50%;
+    height: 56rem;
+    background-image: url("../img/Logos.png");
+    background-size: cover;
+}

@@ -1,0 +1,64 @@
+
+.section1 {
+    height: 40rem;
+
+}
+.padre .hijos {
+    width: 25rem;
+
+}
+.titulo1Sect4, .titulo2Sect4 {
+    font-size: 3.4rem;
+}  
+.div2-1 {
+    display: flex;
+    justify-content: center;
+    width: 47%;
+    height: 100%;
+    background-image: url("../img/img3section4.jpg");
+    background-size: cover;
+}
+.section2 {
+    padding-top: 4rem;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.tituloSection3 {
+    color: white;
+    font-size: 3rem;
+}
+
+.lineaHorizontal {
+    width: 90%;
+}
+.sectionAlineacion{
+
+    margin: -5rem 0rem 0rem 10%;
+}
+.botonMenu{
+    display: none;
+}
+.div1-1, .div2-2 {
+    width: 36%;
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.descrpcion1Sect4, .descrpcion2Sect4 {
+    font-size: 1.3rem;
+}
+.Keşfet {
+    padding: 1rem 2.5rem;
+}
+.section5 {
+    height: 30rem;
+}
+.alineacion {
+    width: 95%;
+}
